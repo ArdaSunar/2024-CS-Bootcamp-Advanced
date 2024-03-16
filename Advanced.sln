@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{A87FBA26-1679-4FC1-A178-6225DF72B3D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{A87FBA26-1679-4FC1-A178-6225DF72B3D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F90D9350-DB1E-4A2B-9CA5-EFC0182E4776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F90D9350-DB1E-4A2B-9CA5-EFC0182E4776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{AFF3245D-6B9B-49C5-B40B-724FB0937DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo1", "ThreadingDemo1\ThreadingDemo1.csproj", "{52D28AFD-0280-4901-8739-7C0FA14C9668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{B6ABA841-848A-49E8-94B9-C7F72C06CD37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{F90D9350-DB1E-4A2B-9CA5-EFC0182E4776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F90D9350-DB1E-4A2B-9CA5-EFC0182E4776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F90D9350-DB1E-4A2B-9CA5-EFC0182E4776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF3245D-6B9B-49C5-B40B-724FB0937DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF3245D-6B9B-49C5-B40B-724FB0937DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF3245D-6B9B-49C5-B40B-724FB0937DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF3245D-6B9B-49C5-B40B-724FB0937DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D28AFD-0280-4901-8739-7C0FA14C9668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D28AFD-0280-4901-8739-7C0FA14C9668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D28AFD-0280-4901-8739-7C0FA14C9668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D28AFD-0280-4901-8739-7C0FA14C9668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ABA841-848A-49E8-94B9-C7F72C06CD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ABA841-848A-49E8-94B9-C7F72C06CD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ABA841-848A-49E8-94B9-C7F72C06CD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ABA841-848A-49E8-94B9-C7F72C06CD37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
