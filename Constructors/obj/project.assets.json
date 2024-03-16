@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-Advanced\\Advanced\\Constructors\\Constructors.csproj",
+      "projectUniqueName": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-Advanced\\Constructors\\Constructors.csproj",
       "projectName": "Constructors",
-      "projectPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-Advanced\\Advanced\\Constructors\\Constructors.csproj",
+      "projectPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-Advanced\\Constructors\\Constructors.csproj",
       "packagesPath": "C:\\Users\\ardas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-Advanced\\Advanced\\Constructors\\obj\\",
+      "outputPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-Advanced\\Constructors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
