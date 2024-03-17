@@ -40,25 +40,10 @@ foreach (var product in result)
 
 Console.WriteLine("Class-------------------------------------");
 
-ProductManager productManager1 = new ProductManager();
 
+List<Product> products1 = ProductManager.GetProductsLinq(products);
 
-
-
-class Product
+foreach (var product in products1)
 {
-    public int ProductId { get; set; }
-    public int CategoryId { get; set; }
-    public string ProductName { get; set; }
-    public string QuantityPerUnit { get; set; }
-    public decimal UnitPrice { get; set; }
-    public int UnitsInStock { get; set; }
-
-}
-
-class Category
-{
-    public int CategoryId { get; set; }
-    public string CategoryName { get; set; }
-
+    Console.WriteLine(product.ProductName);
 }
